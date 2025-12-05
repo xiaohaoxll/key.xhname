@@ -1,0 +1,10 @@
+{
+    "ABC123456": {
+        "user": "用户A",
+        "active": true
+    },
+    "VIPKEY999": {
+        "user": "高级会员",
+        "active": true
+    }
+}
